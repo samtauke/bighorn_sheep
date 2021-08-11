@@ -26,6 +26,7 @@ The Code must be run in the following sequence:
   6. "./analysis/03_svm.ipynb"
   7. "./analysis/04_neural_net_optimization.ipynb"
       - This file takes close to an hour to run, make sure you have time before you run it.
+      - To save you the time, I have saved the output from running the file in data/datasets/nn_model_results.csv
 
 
 
