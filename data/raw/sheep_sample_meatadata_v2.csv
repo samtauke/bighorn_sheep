@@ -1,0 +1,179 @@
+Labid,Bioid,date.of.blood.draw,herd,month,year,Class
+Sample003,Badlands,11/13/2017,Badlands,11,2017,Negative
+Sample004,Badlands,11/13/2017,Badlands,11,2017,Negative
+Sample005,Badlands,11/13/2017,Badlands,11,2017,Negative
+Sample006,Badlands,11/13/2017,Badlands,11,2017,Negative
+Sample007,Badlands,11/13/2017,Badlands,11,2017,Negative
+Sample008,Badlands,11/13/2017,Badlands,11,2017,Negative
+Sample009,Badlands,11/13/2017,Badlands,11,2017,Negative
+Sample010,Badlands,11/13/2017,Badlands,11,2017,Negative
+Sample011,Badlands,11/13/2017,Badlands,11,2017,Negative
+Sample012,Badlands,11/13/2017,Badlands,11,2017,Negative
+Sample013,11AS14,1/14/2015,Asotin,1,2015,Negative
+Sample014,11AS10,2/26/2014,Asotin,2,2014,Negative
+Sample025,11AS13,2/26/2014,Asotin,2,2014,Negative
+Sample026,11AS12,11/13/2014,Asotin,11,2014,Negative
+Sample027,11AS07,2/5/2013,Asotin,2,2013,Negative
+Sample028,11AS09,2/26/2014,Asotin,2,2014,Negative
+Sample029,08AS37,2/26/2014,Asotin,2,2014,Negative
+Sample030,08AS26,2/26/2014,Asotin,2,2014,Negative
+Sample031,11AS14,2/5/2014,Asotin,2,2014,Negative
+Sample032,11AS10,2/5/2011,Asotin,2,2011,Negative
+Sample033,11AS13,2/5/2011,Asotin,2,2011,Negative
+Sample036,11AS12,2/5/2011,Asotin,2,2011,Negative
+Sample037,11AS07,2/26/2014,Asotin,2,2014,Negative
+Sample038,11AS15,2/5/2011,Asotin,2,2011,Negative
+Sample039,11AS04,2/5/2011,Asotin,2,2011,Negative
+Sample040,11AS03,2/5/2011,Asotin,2,2011,Negative
+Sample041,15LO25,1/29/2015,Lostine,1,2015,Negative
+Sample042,13LO02,3/4/2016,Lostine,3,2016,Negative
+Sample043,11LO44,2/23/2016,Lostine,2,2016,Negative
+Sample044,11LO40,3/2/2016,Lostine,3,2016,Negative
+Sample047,05LO53,3/23/2017,Lostine,3,2017,Negative
+Sample048,04LO49,2/19/2013,Lostine,2,2013,Negative
+Sample049,16TU44,8/30/2016,Asotin,8,2016,Negative
+Sample050,15LM54,8/29/2016,Asotin,8,2016,Negative
+Sample051,15LM53,8/29/2016,Asotin,8,2016,Negative
+Sample052,16BR81,8/30/2016,Asotin,8,2016,Negative
+Sample053,11LK36,11/1/2011,BlackButte,11,2011,Negative
+Sample054,11LK32,11/1/2011,Lookout Mtn,11,2011,Negative
+Sample055,11LK33,11/1/2011,Lookout Mtn,11,2011,Negative
+Sample058,11LK30,11/1/2011,Lookout Mtn,11,2011,Negative
+Sample059,11LK26,11/30/2011,Lookout Mtn,11,2011,Negative
+Sample060,17TU93,10/9/2017,Tucannon,10,2017,Negative
+Sample061,99L09,12/1/2012,Lostine,12,2012,Chronic
+Sample062,99L09,2/5/2014,Lostine,2,2014,Chronic
+Sample063,14LO83,12/11/2017,Lostine,12,2017,Chronic
+Sample064,05L068,12/12/2017,Lostine,12,2017,Chronic
+Sample065,01LO34,12/11/2012,Lostine,12,2012,Chronic
+Sample066,17LO74,12/13/2017,Lostine,12,2017,Positive
+Sample069,04LO58,12/12/2017,Lostine,12,2017,Chronic
+Sample070,04LO12,1/14/2014,Lostine,1,2014,Chronic
+Sample071,02LO43,12/11/2013,Lostine,12,2013,Chronic
+Sample072,01LO32,3/21/2014,Lostine,3,2014,Chronic
+Sample073,00L13,1/26/2013,Lostine,1,2013,Chronic
+Sample074,14LO83,3/12/2014,Lostine,3,2014,Chronic
+Sample075,05LO68,1/14/2014,Lostine,1,2014,Chronic
+Sample076,12LO46,1/11/2017,Lostine,1,2017,Chronic
+Sample077,04LO74,2/1/2013,Lostine,2,2013,Chronic
+Sample080,04LO58,1/1/2013,Lostine,1,2013,Chronic
+Sample081,04LO12,1/1/2013,Lostine,1,2013,Chronic
+Sample082,02LO43,1/21/2015,Lostine,1,2015,Chronic
+Sample083,01LO32,12/1/2012,Lostine,12,2012,Chronic
+Sample084,OOL13,2/6/2013,Lostine,2,2013,Chronic
+Sample085,15BB68,2/4/2015,BlackButte,2,2015,Negative
+Sample086,14BB17,10/8/2014,BlackButte,10,2014,Negative
+Sample087,14BB03,2/27/2014,BlackButte,2,2014,Negative
+Sample088,11BB35,2/4/2015,BlackButte,2,2015,Intermittent
+Sample091,06BB12,10/1/2014,BlackButte,10,2014,Negative
+Sample092,g13,2/22/2016,BlackButte,2,2016,Negative
+Sample093,y34,2/26/2014,Lostine,2,2014,Chronic
+Sample094,y33,7/30/2015,Snowstorms,7,2015,Chronic
+Sample095,g13,3/18/2015,BlackButte,3,2015,Negative
+Sample096,w36,3/18/2015,BlackButte,3,2015,Negative
+Sample097,y60,3/19/2015,Lostine,3,2015,Chronic
+Sample098,y48,3/19/2015,Lostine,3,2015,Chronic
+Sample099,p9,7/30/2015,Snowstorms,7,2015,Intermittent
+Sample102,r110,7/24/2015,Snowstorms,7,2015,Chronic
+Sample103,w36,9/8/2015,BlackButte,9,2015,Negative
+Sample104,y60,10/5/2015,Lostine,10,2015,Chronic
+Sample105,r110,10/7/2015,Snowstorms,10,2015,Chronic
+Sample106,y33,10/7/2015,Snowstorms,10,2015,Chronic
+Sample107,y33,10/26/2015,Snowstorms,10,2015,Chronic
+Sample108,y48,11/9/2015,Lostine,11,2015,Chronic
+Sample109,r110,11/23/2015,Snowstorms,11,2015,Chronic
+Sample112,y33,11/23/2015,Snowstorms,11,2015,Chronic
+Sample113,b18,11/23/2015,Snowstorms,11,2015,Negative
+Sample114,p9,11/23/2015,Snowstorms,11,2015,Intermittent
+Sample115,g13,11/25/2015,BlackButte,11,2015,Negative
+Sample116,b18,7/16/2015,Snowstorms,7,2015,Negative
+Sample127,y60,11/30/2015,Lostine,11,2015,Chronic
+Sample128,y48,12/8/2015,Lostine,12,2015,Chronic
+Sample129, y33,1/15/2016,Snowstorms,1,2016,Chronic
+Sample130,w36,1/20/2016,BlackButte,1,2016,Negative
+Sample131,g13,1/21/2016,BlackButte,1,2016,Negative
+Sample132,r110,1/24/2016,Snowstorms,1,2016,Chronic
+Sample133,b18,2/22/2016,Snowstorms,2,2016,Negative
+Sample134,PW,2/22/2016,Snowstorms,2,2016,Negative
+Sample137,y60,2/23/2016,Lostine,2,2016,Chronic
+Sample138,r110,6/20/2016,Snowstorms,6,2016,Chronic
+Sample139,y60,8/1/2016,Lostine,8,2016,Chronic
+Sample140,b18,10/5/2016,Snowstorms,10,2016,Negative
+Sample141,g13,10/7/2016,BlackButte,10,2016,Negative
+Sample142,w36,10/7/2016,BlackButte,10,2016,Negative
+Sample143,w36,11/14/2016,BlackButte,11,2016,Negative
+Sample144,b18,11/14/2016,Snowstorms,11,2016,Negative
+Sample145,08AS29,1/14/2015,Asotin,1,2015,Intermittent
+Sample148,04LO73,2/6/2013,Lostine,2,2013,Intermittent
+Sample149,03LO50,2/12/2015,Lostine,2,2015,Intermittent
+Sample150,04LO60,1/13/2015,Lostine,1,2015,Chronic
+Sample151,12LO75,2/19/2013,Lostine,2,2013,Intermittent
+Sample152,13LO82,3/4/2016,Lostine,3,2016,Intermittent
+Sample153,08LO29,2/4/2014,Lostine,2,2014,Intermittent
+Sample154,12LO38,3/21/2014,Lostine,3,2014,Intermittent
+Sample155,08LO24,3/12/2014,Lostine,3,2014,Intermittent
+Sample158,10LO33,3/6/2015,Lostine,3,2015,Intermittent
+Sample159,04LO73,12/31/2012,Lostine,12,2012,Intermittent
+Sample160,03LO50,12/4/2013,Lostine,12,2013,Intermittent
+Sample161,04LO60,2/6/2013,Lostine,2,2013,Chronic
+Sample162,12LO75,12/31/2012,Lostine,12,2012,Intermittent
+Sample163,13LO82,12/30/2014,Lostine,12,2014,Intermittent
+Sample164,08LO29,12/1/2012,Lostine,12,2012,Intermittent
+Sample165,12LO38,12/19/2013,Lostine,12,2013,Intermittent
+Sample168,08LO24,12/4/2014,Lostine,12,2014,Intermittent
+Sample169,10LO33,2/19/2013,Lostine,2,2013,Intermittent
+Sample170,17RB16,2/1/2018,Redbird,2,2018,Intermittent
+Sample171,17RB16,2/4/2017,Redbird,2,2017,Intermittent
+Sample172,17RB35,2/1/2018,Redbird,2,2018,Intermittent
+Sample173,17RB35,2/6/2017,Redbird,2,2017,Intermittent
+Sample174,17RB61,2/6/2017,Redbird,2,2017,Intermittent
+Sample175,17RB61,2/1/2018,Redbird,2,2018,Intermittent
+Sample178,17RB68,2/1/2018,Redbird,2,2018,Intermittent
+Sample179,17RB68,2/6/2017,Redbird,2,2017,Intermittent
+Sample180,13CLM14,12/13/2013,Clemans,12,2013,Negative
+Sample181,13CLM1,12/13/2013,Clemans,12,2013,Negative
+Sample182,13CLM2,12/13/2013,Clemans,12,2013,Negative
+Sample183,13CLM7,12/11/2013,Clemans,12,2013,Negative
+Sample184,13CLM8,12/13/2013,Clemans,12,2013,Negative
+Sample185,13CLM9,12/13/2013,Clemans,12,2013,Negative
+Sample186,13CLM10,12/13/2013,Clemans,12,2013,Negative
+Sample189,13CLM11,12/11/2013,Clemans,12,2013,Negative
+Sample190,R6,7/28/2015,Custer State Park,7,2015,Negative
+Sample191,R7,9/28/2015,Custer State Park,9,2015,Negative
+Sample192,E14,7/30/2015,Custer State Park,7,2015,Negative
+Sample193,E15,9/3/2015,Custer State Park,9,2015,Negative
+Sample194,E16,10/31/2015,Custer State Park,10,2015,Chronic
+Sample195,R2,12/3/2015,Custer State Park,12,2015,Negative
+Sample196,E20,2/22/2016,Custer State Park,2,2016,Negative
+Sample197,E11,3/7/2016,Custer State Park,3,2016,Negative
+Sample200,E13,3/8/2016,Custer State Park,3,2016,Negative
+Sample201,E16,3/13/2016,Custer State Park,3,2016,Chronic
+Sample202,E14,4/8/2016,Custer State Park,4,2016,Negative
+Sample203,R5,4/8/2016,Custer State Park,4,2016,Negative
+Sample204,295,3/13/2016,Custer State Park,3,2016,Negative
+Sample205,39,3/11/2016,Custer State Park,3,2016,Chronic
+Sample206,17-2,3/2/2018,WSU - Captive,3,2018,Negative
+Sample207,17-4,3/2/2018,WSU - Captive,3,2018,Negative
+Sample218,17-3,3/2/2018,WSU - Captive,3,2018,Negative
+Sample219,gigi,3/8/2018,WSU - Captive,3,2018,Negative
+Sample220,46,3/8/2018,WSU - Captive,3,2018,Chronic
+Sample221,47,3/8/2018,WSU - Captive,3,2018,Negative
+Sample222,48,3/8/2018,WSU - Captive,3,2018,Negative
+Sample223,49,3/8/2018,WSU - Captive,3,2018,Negative
+Sample224,50,3/8/2018,WSU - Captive,3,2018,Negative
+Sample225,MT-5,3/8/2018,WSU - Captive,3,2018,Negative
+Sample226,3728,1/31/2017,Snowstorms,1,2017,Intermittent
+Sample229,3730,1/31/2017,Snowstorms,1,2017,Chronic
+Sample230,830,1/31/2017,Snowstorms,1,2017,Chronic
+Sample231,10206,1/31/2017,Snowstorms,1,2017,Chronic
+Sample232,10207,1/31/2017,Snowstorms,1,2017,Chronic
+Sample233,10208,1/31/2017,Snowstorms,1,2017,Chronic
+Sample234,10211,1/31/2017,Snowstorms,1,2017,Chronic
+Sample235,10216,1/31/2017,Snowstorms,1,2017,Intermittent
+Sample236,10217,1/31/2017,Snowstorms,1,2017,Negative
+Sample239,10428,1/31/2017,Snowstorms,1,2017,Chronic
+Sample240,04LO49,1/14/2014,Lostine,1,2014,Negative
+Sample241,05LO53,3/7/2013,Lostine,3,2013,Negative
+Sample242,11LO40,2/1/2011,Lostine,2,2011,Negative
+Sample243,11LO44,2/5/2013,Lostine,2,2013,Negative
+Sample244,13LO02,12/11/2013,Lostine,12,2013,Negative
